@@ -2,3 +2,4 @@
 Simple dashboard application with python, HTML, CSS and JavaScript
 
 Content:
+
